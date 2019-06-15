@@ -1,9 +1,9 @@
 # Machine-Learning-Tutorial-Chinese
 ### 专门面向中文用户的机器学习相关的学习资料大集合
 
-任何学习教程的**数量不在多，而在精**，几个优秀的、经典的教程吃透，比天天收藏一堆花里胡哨的资源帖却很少看要来的更实在。作者在这里集合一批**优质的**、并且**对中文用户友好的**各类机器学习相关的学习资料，希望能对大家的学习工作起到一定的帮助。
+任何学习教程的**不在数量多，而在质量精**，几个优秀的、经典的教程学完吃透，比天天下载收藏一堆花里胡哨的资源帖却很少看要来的更实在。作者在这里集合一批**优质的**、并且**对中文用户友好的**各类机器学习相关的学习资料，希望能对大家的学习工作起到一定的帮助。
 
-欢迎各位大虾随时来补充~
+欢迎各位大虾随时来补充和更新~
 
 ---
 
@@ -17,6 +17,7 @@
 * 书籍
   * 《机器学习》 周志华 清华大学出版社
   * 《统计学习方法》 李航 清华大学出版社
+  * 《统计学习方法(第二版)》 李航 清华大学出版社 (2019年5月1日出版)
 
 * 其他推荐的英文课程
   * [CS229: Machine Learning](http://cs229.stanford.edu/) 吴恩达
@@ -34,8 +35,12 @@
 * 书籍
   * 《动手深度学习》 MXNet Community 人民邮电出版社
 
-    [GitHub仓库](<https://github.com/mli/gluon-tutorials-zh>) | 
-    [PDF版下载](<https://zh.gluon.ai/gluon_tutorials_zh.pdf>) 
+    [官网](<https://zh.gluon.ai/>) | 
+    [在线阅读](<https://zh.d2l.ai/>) | 
+    [在线视频课程目录](<https://discuss.gluon.ai/t/topic/753>) |
+    [GitHub仓库](<https://github.com/d2l-ai/d2l-zh>) | 
+    [GitHub仓库(英文)](<https://github.com/d2l-ai/d2l-en>) |
+    [中文PDF版下载(GitHub)](<https://github.com/d2l-ai/d2l-zh/releases>) 
   * *Pattern Recognition and Machine Learning (PRML)* 
 
 * 其他推荐的英文课程
@@ -55,6 +60,13 @@
 * 书籍
   * 《解析深度学习——语音识别实践》电子工业出版社
 
+* 相关GitHub仓库
+  * [ASRT语音识别项目](<https://github.com/nl8590687/ASRT_SpeechRecognition>)
+  * [ASRT配套客户端(WPF)](<https://github.com/nl8590687/ASRT_SpeechClient_WPF>)
+  * [ASRT配套客户端(UWP)](<https://github.com/nl8590687/ASRT_SpeechClient_UWP>)
+  * [复现的百度DeepSpeech架构](<https://github.com/mozilla/DeepSpeech>)
+  * [Kaldi项目](<https://github.com/kaldi-asr/kaldi>)
+
 ## 数据挖掘
 * 书籍
   * 《数据挖掘：概念与技术》 韩家炜 机械工业出版社
@@ -64,7 +76,11 @@
 * [CS224d: Deep Learning for Natural Language Processing](<http://cs224d.stanford.edu/>)
 
 ## 其他相关教程
-* 《数学之美》 吴军 人民邮电出版社
+* 书籍
+  * 《数学之美》 吴军 人民邮电出版社
 
-## 重要论文
-*待补充*
+* 重要论文
+[查看论文目录](Papers.md)
+
+* 相关文章教程
+[查看文章教程目录](Tutorial.md)
