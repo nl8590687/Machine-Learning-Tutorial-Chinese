@@ -5,6 +5,8 @@
 
 欢迎各位大虾随时来补充和更新~
 
+也欢迎各位同学一起加群学习交流，提供资源下载，加入QQ群：**867888133**，加入微信群请先加微信 **ailemon-me**，并注明来自GitHub学习资料项目，稍后会拉您入群。
+
 ---
 
 ## 机器学习基础知识教程
@@ -42,23 +44,31 @@
     [GitHub仓库(英文)](<https://github.com/d2l-ai/d2l-en>) |
     [中文PDF版下载(GitHub)](<https://github.com/d2l-ai/d2l-zh/releases>) 
   * *Pattern Recognition and Machine Learning (PRML)* 
+  * 花书：《Deep Learning / 深度学习》 [美]伊恩·古德费洛(Ian Goodfellow)等 著 赵申剑等 译 中国工信出版集团 人民邮电出版社
 
 * 其他推荐的英文课程
   * [CS224d: Deep Learning for Natural Language Processing](<http://cs224d.stanford.edu/>)
   * [CS231n: Convolutional Neural Networks for Visual Recognition](<http://vision.stanford.edu/teaching/cs231n/index.html>)
 
-## 编程语言
+## 编程语言及计算机学科基础知识
 * Python3 学习教程: 
   * [廖雪峰的Python3教程](www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
   * [Python语言程序设计 - 中国大学MOOC](<https://www.icourse163.org/course/BIT-268001>) 北京理工大学计算机课程 (国家精品课)
+* C/C++ 学习资料：
+  * 书籍：《C Primer Plus》 《C++ Primer》
+* 数据结构和算法：
+  * 书籍：《数据结构（清华版）》《算法（普林斯顿大学版）》《算法导论》《剑指Offer》
+  * 做题：LeetCode、牛客网
 
 ## 计算机视觉
-* [CS231n: Convolutional Neural Networks for Visual Recognition](<http://vision.stanford.edu/teaching/cs231n/index.html>)
+* CS231n: [CS231n: Convolutional Neural Networks for Visual Recognition](<http://vision.stanford.edu/teaching/cs231n/index.html>) [CS231n计算机视觉课程 网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1003223001#/learn/video?lessonId=1003659005&courseId=1003223001)
 * 书籍
   * 《计算机视觉》 贾云德
 ## 语音识别
 * 书籍
-  * 《解析深度学习——语音识别实践》电子工业出版社
+  * 《语音识别——原理与应用》 洪青阳 李琳 著 中国工信出版集团 电子工业出版社
+  * 《解析深度学习——语音识别实践》 【美】俞栋 邓力 著 电子工业出版社
+  * 《Kaldi语音识别实战》 陈果果 都家宇 那兴宇 张俊博 著 中国工信出版集团 电子工业出版社
 
 * 相关GitHub仓库
   * [ASRT语音识别项目](<https://github.com/nl8590687/ASRT_SpeechRecognition>)
